@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "PurchaseListID": "PL_20251230_004",
+    "CreatedOn": "2025-12-30T06:19:54.1279154Z",
+    "CreatedBy": "k64121947",
+    "TotalEstimation": 18000,
+    "Status": "Draft",
+    "PlannedDate": "2025-12-30T00:00:00",
+    "Remarks": "",
+    "Deducted": true
+  },
+  "materials": [
+    {
+      "SlNo": 1,
+      "MID": "For Refund",
+      "Title": null,
+      "PartNumber": null,
+      "Manufacturer": null,
+      "SupplierType": null,
+      "SupplierName": null,
+      "Quantity": 18,
+      "UnitCost": 1000,
+      "Estimation": 18000
+    },
+    {
+      "SlNo": 2,
+      "MID": null,
+      "Title": null,
+      "PartNumber": null,
+      "Manufacturer": null,
+      "SupplierType": null,
+      "SupplierName": null,
+      "Quantity": 0,
+      "UnitCost": 0,
+      "Estimation": 0
+    }
+  ]
+}
