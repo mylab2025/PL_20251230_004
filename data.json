@@ -3,11 +3,14 @@
     "PurchaseListID": "PL_20251230_004",
     "CreatedOn": "2025-12-30T06:19:54.1279154Z",
     "CreatedBy": "k64121947",
+    "EditedBy": "k64121947",
+    "EditedOn": "2025-12-30T06:22:35.7707023Z",
     "TotalEstimation": 18000,
-    "Status": "Draft",
+    "Status": "Dropped",
     "PlannedDate": "2025-12-30T00:00:00",
     "Remarks": "",
-    "Deducted": true
+    "Deducted": false,
+    "Approval": "Approved"
   },
   "materials": [
     {
