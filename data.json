@@ -4,13 +4,13 @@
     "CreatedOn": "2025-12-30T06:19:54.1279154Z",
     "CreatedBy": "k64121947",
     "EditedBy": "k64121947",
-    "EditedOn": "2025-12-30T06:24:39.613354Z",
+    "EditedOn": "2026-02-12T13:02:42.2192154Z",
     "TotalEstimation": 18000,
-    "Status": "Ready",
+    "Status": "Dropped",
     "PlannedDate": "2025-12-30T00:00:00",
     "Remarks": "",
-    "Deducted": true,
-    "Approval": "Approved"
+    "Deducted": false,
+    "Approval": "Rejected"
   },
   "materials": [
     {
